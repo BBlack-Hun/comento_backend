@@ -16,7 +16,7 @@
     -->
 
     <select id="selectMovie" resultType="movieVO">
-        SELECT MOVIE_NAME, DIRECTOR, TYPES FROM MOVIE
+        SELECT MOVIE_NAME, DIRECTOR, TYPES FROM movie
     </select>
 
 </mapper>
